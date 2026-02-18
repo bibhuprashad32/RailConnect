@@ -4,7 +4,7 @@ The backend for the Train Ticket Booking application is built using Java and Spr
 
 ## Tech Stack
 
-* **Java 8+**
+* **Java 17+**
 * **Spring Boot (2.7.x)**
 * **Spring Cloud:** API Gateway & Netflix Eureka Service Registry.
 * **Spring Data JPA / Hibernate:** For database interactions.
@@ -26,7 +26,7 @@ The backend consists of the following individual services:
 ## How to Run Locally
 
 ### Prerequisites
-* Java Development Kit (JDK) installed.
+* Java Development Kit (JDK 17) installed.
 * Maven installed.
 * MySQL Server running locally.
 
